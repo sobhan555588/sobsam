@@ -1,2 +1,5 @@
-body{background-color:rgba(5,122,225,1);}
+body{
+  background-color:rgba(5,122,225,1);
+  font-family:"Arial";
+}
 p{color:#ffffff;}
